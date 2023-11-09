@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  padding: 16px;
+}
+
+.main a {
+  width: 100%;
+  font-size: 26px;
+
+  padding: 16px;
+  border: 1px solid white;
+  margin-bottom: 10px;
+}
